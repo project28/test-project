@@ -11,7 +11,7 @@ i am Dinh Phu. thank everyone.
 #include<stdlib.h>
 #include <ctype.h>
 #include <windows.h>
-#include<stdlib.h>
+#include
 
 
 
